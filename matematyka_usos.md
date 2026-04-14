@@ -375,7 +375,7 @@ Program obejmuje następujące zagadnienia:
 
 **Kod przedmiotu:** 0800-RPROB *(do uzgodnienia)*
 **Kierunek:** Informatyka Stosowana
-**Semestr:** III lub IV *(do uzgodnienia)*
+**Semestr:** III
 **Forma zajęć:** wykład + ćwiczenia
 
 ### Efekty uczenia się — wiedza
@@ -434,7 +434,7 @@ Program obejmuje następujące zagadnienia:
 
 **Kod przedmiotu:** 0800-STAT *(do uzgodnienia)*
 **Kierunek:** Informatyka Stosowana
-**Semestr:** III lub IV *(do uzgodnienia)*
+**Semestr:** IV *(po Rachunku prawdopodobieństwa)*
 **Forma zajęć:** wykład + ćwiczenia
 
 ### Efekty uczenia się — wiedza
